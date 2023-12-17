@@ -34,7 +34,7 @@ const AboutSection: React.FC<AboutSectionProps> = ({ sectionId }) => (
             <span className="mt-1 text-justify text-sm lg:text-base ">
 
             
-My background doesn't yet include work experience, as I'm currently dedicated to my studies after completing my degree. Nevertheless, I am completely open and willing to learn whatever is necessary to contribute efficiently and excellently to future projects.
+My background doesnt yet include work experience, as I am currently dedicated to my studies after completing my degree. Nevertheless, I am completely open and willing to learn whatever is necessary to contribute efficiently and excellently to future projects.
             </span>
         </div>
     </div>
