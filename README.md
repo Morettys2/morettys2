@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/joao-pedro-do-prado-moretti-891083227/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  <a href="https://www.youtube.com/channel/UCF4tnXlTqBvAAKuC6ZeZ6Ng" alt="Youtube">
+  <a href="https://www.youtube.com/channel/UCS6AO_V0wrRXEQmn5pvqhMQ" alt="Youtube">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
 </p>
