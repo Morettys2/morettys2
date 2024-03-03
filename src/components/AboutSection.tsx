@@ -13,29 +13,27 @@ const AboutSection: React.FC<AboutSectionProps> = ({ sectionId }) => (
                 <div className=" overflow-hidden bg-orange-500 w-64 h-64 lg:w-72 lg:h-72  rounded-full ">
                     <Image
                         src="/joao.jpeg"
-                        width={600}
-                        height={600}
+                        width={300}
+                        height={300}
                         alt="Picture of the author"
                     />
                 </div>
             </div>
         </div>
 
-        <div className="h-full py-4 lg:w-2/3 flex flex-col p-10 lg:p-20 bg-gray-200 font-bold text-black lg:justify-center  space-y-6 ">
+        <div className="h-full py-4 lg:w-2/3 flex flex-col p-10 lg:p-20 bg-gray-200 font-bold text-black lg:justify-center  space-y-10 ">
             <h1 className="text-xl lg:text-3xl font-bold text-left text-black">João Pedro Moretti</h1>
             <span className="mt-10 lg:mt-5 text-justify text-sm lg:text-base ">
-                As a fervent technology enthusiast with an insatiable desire for continuous development, I bring a background in Technical Analysis and Systems Development, currently pursuing a degree in Software Engineering.
+
+
+                Como alguém super ligado em tecnologia e sempre querendo aprender mais, eu tenho uma formação em Análise Técnica e Desenvolvimento de Sistemas e tô correndo atrás de um diploma em Engenharia de Software.
             </span>
             <span className="mt-1 text-justify text-sm lg:text-base font-bold text-black">
 
-                In my current journey, I am studying software engineering and hold a degree in Technical Analysis and Systems Development. I have already undertaken several projects in React and am actively seeking to expand my knowledge further.e.
+                Na minha jornada atual, estou estudando engenharia de software na faculdade e possuo um diploma Técnico em Análise e Desenvolvimento de Sistemas. Já realizei alguns projetos em React e estou ativamente buscando expandir ainda mais meu conhecimento.
             </span>
 
-            <span className="mt-1 text-justify text-sm lg:text-base ">
 
-
-                My background doesnt yet include work experience, as I am currently dedicated to my studies after completing my degree. Nevertheless, I am completely open and willing to learn whatever is necessary to contribute efficiently and excellently to future projects.
-            </span>
         </div>
     </div>
 );
