@@ -3,18 +3,19 @@
   <h1>
     Oi, me chamo João Pedro!!!
     <br/>
-    Bem vindo ao meu Git 🚀
+    Bem-vindo ao meu Git 🚀
   </h1>
+  
+  <!-- Adicionando o GIF -->
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWthMWN2ejJiMWd2cnR5cWhwMHE5MzU0aTRqM2Y2cjlyazRjeWh1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oMLJaPmbUnoC4/giphy.webp" alt="Descrição do GIF" />
+  
 </div>
-
-
 
 <br/>
 
 ### ✨ Sobre :
 
-- 🤠 Formado em Técnico em Análise e Desenvolvimento de Sistemas na ETEC.
-- 🤖 Atualmente estou estudando Engenharia de Software.
+- 🤖 Atualmente estou estudando Engenharia de Software na UNIFAE.
 - 👽 Gosto de assistir filmes e jogar em minhas horas vagas.
 
 <div align="center">
@@ -22,8 +23,6 @@
 <br>
 
 ### 📫
-
-
 
 <div>
   
@@ -35,6 +34,3 @@
   
   </div>
 </div>
-
-
-
